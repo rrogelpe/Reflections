@@ -1,0 +1,35 @@
+Reflection 
+
+	Having the differences be shown to me rather than comparing the files line by line helps narrow my focus to a single thing - correcting any bugs.
+It is easy to build stress and fustruation when looking for bugs in code, especially in large files, and what this tool offers is peace of mind in addition
+to easy bug checking which itself is already a tremendous amount of help because it minimizes debugging time allowing the programmer to be more efficient.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	For one it saves the programmer lots of time, specifically debugging time, which can be stressful and fustruating sometimes.
+Also, programming is about finding the most efficient and elegant way of solving a problem, and the most elegant solution is not always the first or the last. 
+Often times programmers have something that works but like to try out new things, this doens't always work out though and when it doesn't, it helps a lot to have 
+an easily accessible history of previous files which one can revert to.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+pros: 
+*Manual saves are more likely to be meaningful is the programmer follows the rule of thumb - only commit logical changes.
+*The number of commits is more likely to be reasonable compared to the alternative
+cons:
+*There exists the possibility that the programmer forgets to create a commit when he/she should and ends up creating a huge commit consisting of multiple logical changes which 
+are not so easy to identify.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+	Simply because there is very little reason to. Google Docs is predominantly used by non programmers who use the service for the sharing and/or saving of independent files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows you the most recent commits along with their associated description. git diff followed by two file IDs shows you the edits, this includes both removed and 
+added code. Added code is preceeded by a plus sign whereas deleted code is preceeded by a minus sign.
+
+How might using version control make you more confident to make changes that could break something?
+
+	I understand Git has the capacity to allow users to make changes to a previous version of the file and then save it on different branch. This process isolates this file from 
+the rest.
