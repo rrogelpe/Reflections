@@ -20,6 +20,9 @@ hold these new added features ensures that your main brach stays safe and availa
 
 How do the diagrams help you visualize the branch structure?
 
+	The diagrams show the relationship between commits and branches and this is really important because it will help
+keep my repositories and projects organized.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
