@@ -1,1 +1,3 @@
 When would you want to use a remote repository rather than keeping all your work local?
+	when you want to share code with a group or are working on a group project. Git hub makes it easier for programmers
+to collaborate or projects when working on a remote repository.
