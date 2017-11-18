@@ -1,3 +1,8 @@
 When would you want to use a remote repository rather than keeping all your work local?
 	when you want to share code with a group or are working on a group project. Git hub makes it easier for programmers
 to collaborate or projects when working on a remote repository.
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	It is just another way of staying safe in terms of avoiding commiting changes you don't really want.
+
