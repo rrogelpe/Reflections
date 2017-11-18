@@ -19,4 +19,8 @@ Describe the differences between forks, clones, and branches. When would you use
 	-Use branching when you want to try implementing a new feature to existing working code but are unsure if it will work or if it will be a good idea.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
-	It enables you to work and offline with files from both your local directory and the github master branch.	
+	It enables you to work and offline with files from both your local directory and the github master branch.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	Without Git or Github, I imagine programmers would have to save multiple copies of files and then allocate some time to cleanup any files they no longer need.
+Collaborating would be very stressful withoug these tools because it would take some serious human effort and work to identify changes made to files by differnet individuals.	
